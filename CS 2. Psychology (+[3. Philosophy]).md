@@ -1,6 +1,6 @@
 ---
 created: 2023-08-25T17:15:51+02:00
-modified: 2023-08-25T17:22:17+02:00
+modified: 2023-08-25T17:23:25+02:00
 ---
 
 # CS 2. Psychology (+[3. Philosophy])
@@ -13,4 +13,4 @@ modified: 2023-08-25T17:22:17+02:00
 Overarching chapter name ideas:
 "1. Introduction to cognitive science"
 "2. Fundamentals of psychology"
-"3. Philosophy of mind"
+"3. Theories of philosophy"
